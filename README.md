@@ -1,0 +1,1 @@
+This repository is an archive for the work I completed in my university module Algorithms, Processes and Data. Each solution is a Java program and this will serve as a demonstration of my work in the Java programming language
